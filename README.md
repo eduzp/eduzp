@@ -1,9 +1,8 @@
-## About me
+## Sobre mim
 
-- 🤔 Brazilian citizen.
-- 🎓 software engineering student at Catholic University of Brasilia.
-- 💼 Aimbot Memory, AimColor, Esp's and External applications.
-- 🌱 Knowledge focused on gamehacking, reverse engineering and data manipulation.
+- 🤔 Brasileiro.
+- 🎓 Estudante de Engenharia de Software pela Universidade Católica de Brasília
+- 🌱 Foco no Back-End, Leitura de memória, Engenharia reversa, Java & Bukkit API.
 
 ## Skills
 
