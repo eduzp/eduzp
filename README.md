@@ -2,7 +2,7 @@
 
 - 🤔 Brasileiro.
 - 🎓 Estudante de Engenharia de Software pela Universidade Católica de Brasília
-- 🌱 Foco no Back-End, Leitura de memória, Engenharia reversa, Java & Bukkit API.
+- 🌱 Foco no Back-End, Leitura de memória, Engenharia reversa e Machine learning
 
 ## Skills
 
